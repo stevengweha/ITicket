@@ -49,19 +49,19 @@ __Auteurs__ :
 
 | Tache | Description | Assigné à | Statut | Notes du dernier ***~.X*** |
 |-------|-------------|-----------|--------|------------------|
-| Base | SetUp du projet | Jeff & Henin | Deboggage nec. **(87%)** | **X** | 
-| Permissions | Permettre les accès par permissions | Henin | En cours **(78%)** | Corriger l'assignation des *roles + restriction *middleware ***~H*** | 
-| Data-Tickets | Mettre en place les modèles et ressources des Tickets | Jeff | En cours **(99%)** | c.f *Tickets ***~H*** |
-| Tickets | Mettre en place le system de Ticket | Jeff | En cours **(65%)** | Manque plus que le *TicketController et le connecter à une *Vue ***~H*** | 
-| Vues | Visuels et accès aux microservices | Steve (?) | A faire | **X** | 
-| Gestion Ressources | Permettre à l'admin la modification dynamique de la BDD | Henin | En cours **(60%)** | c.f *Permissions ***~H*** | 
+| Base | SetUp du projet | Jeff & Henin |terminer | **fonctionnel** | 
+| Permissions | Permettre les accès par permissions | Henin |**fonctionnel**| Corriger l'assignation des *roles + restriction *middleware ***~H*** | 
+| Data-Tickets | Mettre en place les modèles et ressources des Tickets | Jeff | En cours **fonctionnel** | c.f *Tickets ***~H*** |
+| Tickets | Mettre en place le system de Ticket | Jeff/steve | **fonctionnel** |***~H*** | 
+| Vues | Visuels et accès aux microservices | Steve | **fonctionnel**| **fonctionnel** | 
+| Gestion Ressources | Permettre à l'admin la modification dynamique de la BDD | Henin | **fonctionnel**| c.f *Permissions ***~H*** | 
 | Container | Mettre en place le container Docker | Steve |Terminer | **fonctionnel** | 
 | CICD | Mettre en place les pipelines githubAction et jenkins d'après deploiement | Steve  | en cour | **phase de test de la pipeline** | 
-| Compiling + Deploiement | Mettre l'application à disposition | ???/@all | en cour | **X** | 
+| Compiling + Deploiement | Mettre l'application à disposition | @all | terminer | **fonctionnel** | 
 
-**Repartition** : Henin (3) ; Jeff (3) ; Steve (3)  -- **Avancement** : 60.22%
+**Repartition** : Henin (3) ; Jeff (3) ; Steve (3)  -- **Avancement** : 80.22%
 
-Score Avancement = (0.87+ 0.78+ 0.99+ 0.65+ 0+ 0.6+ 0.99+ 0.7+ 0.8)/9
+Score Avancement = (0.87+ 0.78+ 0.99+ 0.85+ 0+ 0.8+ 0.99+ 0.8+ 0.8)/9
 
 
 ## [Demarrage de l'application](#sommaire)
